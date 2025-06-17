@@ -1,0 +1,4 @@
+com\example\TaskManager\model\Task.class
+com\example\TaskManager\service\TasksService.class
+com\example\TaskManager\controller\TasksController.class
+com\example\TaskManager\TaskManagerApplication.class
